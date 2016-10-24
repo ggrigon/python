@@ -117,6 +117,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 *Changed*
 
 -	Included changes in `Change log` section on `README.md` file.
+-	Break big code-lines in `acoes.py` for readability.
 
 *Fixed*
 
