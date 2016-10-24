@@ -4,7 +4,7 @@ import bs4, requests
 
 def get_acao(code):
     global msg
-    acao = bs4.BeautifulSoup(requests.get('http://cotacoes.economia.uol.com.br/acao/index.html?codigo='+str(code)).text, 'htm                                                                                                                    l.parser')
+    acao = bs4.BeautifulSoup(requests.get('http://cotacoes.economia.uol.com.br/acao/index.html?codigo='+str(code)).text, 'html.parser')
     if acao.find(class_='error'):
         return('Nenhum dado encontrato para esse cÃ³digo')
     else:
