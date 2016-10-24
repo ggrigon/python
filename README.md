@@ -121,6 +121,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 *Fixed*
 
 -	Deleted blank spaces in `acoes.py` file that bugging it.
+-	Corrected portuguese grammar typos in `acoes.py` file.
 
 
 **[0.3.0] - 2016-10-23**
