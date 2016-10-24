@@ -112,6 +112,17 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
+**[0.4.0] - 2016-10-24**
+
+*Changed*
+
+-	Included changes in `Change log` section on `README.md` file.
+
+*Fixed*
+
+-	Deleted blank spaces in `acoes.py` file that bugging it.
+
+
 **[0.3.0] - 2016-10-23**
 
 *Added*
