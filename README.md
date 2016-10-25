@@ -13,6 +13,17 @@ Some python scripts to do some tasks:
 -	[acoes.py](https://github.com/ggrigon/python/blob/master/acoes.py): Command Line Tool that scrapes any brazilian stock price from [UOL website](http://cotacoes.economia.uol.com.br).
 -	[cartola.py](https://github.com/ggrigon/python/blob/master/cartola.py): a bot to send Telegram messages about [Cartola-FC](http://globoesporte.globo.com/cartola-fc).
 
+Demo
+----
+
+See `acoes.py` in action:
+
+![Alt text](/path/to/img.gif)
+
+See `cartola.py` in action:
+
+![Alt text](/path/to/img.gif)
+
 Features
 --------
 
@@ -67,19 +78,22 @@ To run [acoes.py](https://github.com/ggrigon/python/blob/master/acoes.py):
 	2.	Else, if found the stock ticker, the script scrapes web data and shows the stock price in the terminal like this:
 
 ```
-  Data: 21 Oct. 2016
-  Horário: 18:08
-  ------------------
-  Ação: PETROBRAS ON    
-  Code: petr3.sa
-  Isin: BRPETRACNOR9
+Resultado da consulta:
+---------------------
+Data: 24 Oct. 2016
+Horário: 18:09
+---------------------
+Ação: PETROBRAS ON
+Code: petr3.sa
+Isin: BRPETRACNOR9
 
-  Status:       alta
-  Último Valor: 19,32
-  Maior Valor:  19,35
-  Menor Valor:  18,74
-  Abertura:     19,00
-  Volume:       11.443.700
+Status:       alta
+Último Valor: 19,38
+Maior Valor:  19,72
+Menor Valor:  19,07
+Abertura:     19,52
+Volume:       16.685.500
+
 ```
 
 After all, the script closes itself, automatically.
@@ -114,6 +128,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 **[0.4.0] - 2016-10-24**
 
+*Added*
+
+-	Included `Demo` section on `README.md` file.
+
 *Changed*
 
 -	Included changes in `Change log` section on `README.md` file.
@@ -123,7 +141,6 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 -	Deleted blank spaces in `acoes.py` file that bugging it.
 -	Corrected portuguese grammar typos in `acoes.py` file.
-
 
 **[0.3.0] - 2016-10-23**
 
