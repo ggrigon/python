@@ -18,11 +18,11 @@ Demo
 
 See `acoes.py` in action:
 
-![Alt text](/path/to/img.gif)
+<a href="./acoes.py"><img src="go.png" alt="Go" style="width: 50px; height: 50px"/></a>
 
 See `cartola.py` in action:
 
-![Alt text](/path/to/img.gif)
+<a href="./cartola.py"><img src="go.png" alt="Go" style="width: 50px; height: 50px"/></a>
 
 Features
 --------
