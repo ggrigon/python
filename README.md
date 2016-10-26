@@ -18,13 +18,11 @@ Demo
 
 See `acoes.py` in action:
 
-![./acoes.py](./go.png =50x50)
-# [<img src="go.png" =50x50>](acoes.py)
+<img src="go.png" alt="Go" style="width: 50px; height: 50px;"/>
 
 See `cartola.py` in action:
 
-![./cartola.py](./go.png =50x50)
-# [<img src="go.png" =50x50>](cartola.py)
+<img src="go.png" alt="Go" style="width: 50px; height: 50px;"/>
 
 Features
 --------
