@@ -5,7 +5,19 @@ Python scripts
 
 ---
 
-About
+# Table of contents
+1. [About] (#about)
+2. [Demo] (#demo)
+3. [Features] (#features)
+4. [Installation] (#installation)
+5. [Usage] (#usage)
+6. [Development] (#development)
+7. [Change log] (#change-log)
+8. [License] (#license)
+9. [Credits] (#credits)
+10. [Authors] (#authors)
+
+## About
 -----
 
 Some python scripts to do some tasks:
@@ -13,7 +25,7 @@ Some python scripts to do some tasks:
 -	[acoes.py](https://github.com/ggrigon/python/blob/master/acoes.py): Command Line Tool that scrapes any brazilian stock price from [UOL website](http://cotacoes.economia.uol.com.br).
 -	[cartola.py](https://github.com/ggrigon/python/blob/master/cartola.py): a bot to send Telegram messages about [Cartola-FC](http://globoesporte.globo.com/cartola-fc).
 
-Demo
+## Demo
 ----
 
 See `acoes.py` in action:
@@ -24,7 +36,7 @@ See `cartola.py` in action:
 
 <a href="./cartola.py"><img src="go.png" alt="Go" style="width: 50px; height: 50px"/></a>
 
-Features
+## Features
 --------
 
 There are some pros in this repository:
@@ -35,7 +47,7 @@ There are some pros in this repository:
 
 Maybe we have more :)
 
-Installation
+## Installation
 ------------
 
 ### Requirements
@@ -62,7 +74,7 @@ In four steps:
 3.	Open the folder in a terminal (shell);
 4.	Run any commands showed in next section.
 
-Usage
+## Usage
 -----
 
 Open the Terminal (shell) and, go to the project folder that contains the script to be executed.
@@ -104,7 +116,7 @@ To run [cartola.py](https://github.com/ggrigon/python/blob/master/cartola.py):
 
 *(blank)*
 
-Development
+## Development
 -----------
 
 ### Contribution
@@ -119,7 +131,7 @@ Its simple!
 
 Nothing! We have not any test classes. :(
 
-Change log
+## Change log
 ----------
 
 All notable changes to this project will be documented in this file.
@@ -160,12 +172,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 -	Included `acoes.py` file.
 
-License
+## License
 -------
 
 This project, named *Python*, is avaliable under the following license: [licence_name](http://www.example.org).
 
-Credits
+## Credits
 -------
 
 Acknowledgment to the following people and projects:
@@ -176,7 +188,7 @@ Acknowledgment to the following people and projects:
 
 Thanks to everyone!
 
-Authors
+## Authors
 -------
 
 This project is authored by:
